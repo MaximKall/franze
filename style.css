@@ -1,0 +1,28 @@
+body{
+    font-family: verdana;
+}
+.imgz{
+    max-width: 100%;
+    height: auto;
+    margin-top: 50px;
+}
+
+.imgi{
+    max-width: 100%;
+    height: auto;
+    margin-top: 33vh;
+}
+
+.quiz{
+    margin-top: 70px;
+}
+
+.quiz a {
+    text-decoration: underline;
+    color: black;
+}
+
+.quiz p {
+    margin: 0;
+    padding-top: 15px;
+}

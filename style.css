@@ -1,19 +1,28 @@
-body{
+body {
     font-family: verdana;
 }
-.imgz{
+
+.imgz {
     max-width: 100%;
     height: auto;
     margin-top: 50px;
 }
 
-.imgi{
+.imgi {
+    margin-top: 35vh;
     max-width: 100%;
     height: auto;
-    margin-top: 33vh;
 }
 
-.quiz{
+.maxl {
+    text-align: center;
+    display: block;
+    margin-top: 35vh;
+    text-decoration: none;
+    color: black;
+}
+
+.quiz {
     margin-top: 70px;
 }
 
